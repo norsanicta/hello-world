@@ -1,3 +1,5 @@
 # hello-world
-My first .c program
-(/"v"/)
+
+Hello guys, I'm Norsanicta.
+This is my first .c program.
+Enjoy.
