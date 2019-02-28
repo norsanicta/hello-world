@@ -1,2 +1,3 @@
 # hello-world
-My first .c program
+
+Hello guys, I'm Norsanicta, this is my first .c program, Enjoy.
